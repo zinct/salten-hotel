@@ -1,0 +1,34 @@
+.bg-login-box {
+	background-image: url('http://localhost/salten-hotel/assets/img/login/login.jpg');
+	background-size: 200%;
+	background-position: 2%;
+	background-repeat: no-repeat;
+}
+
+.bg-login {
+	background: linear-gradient(to right, rgba(0, 0, 0, .70), rgba(0, 0, 0, .70)),url('http://localhost/salten-hotel/assets/img/login/bg-login.jpg') ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.hr {
+	height: 5px;
+	color: #f6c23e;
+	background-color: #f6c23e;
+	border: none;
+}
+
+.hidded {
+	display: none;
+}
+
+.m-c {
+	margin-top: 27rem;
+}
